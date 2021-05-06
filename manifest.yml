@@ -1,5 +1,5 @@
 ---
 applications:
- - name: GetStartedNode
+ - name: visit-tracker-app
    random-route: true
    memory: 256M
